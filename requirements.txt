@@ -1,0 +1,2 @@
+Librosa
+Numpy
